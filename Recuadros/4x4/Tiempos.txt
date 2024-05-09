@@ -1,0 +1,16 @@
+time: 326.0
+time: 326.4
+time: 324.6
+time: 327.2
+time: 327.1
+time: 322.0
+time: 324.2
+time: 323.8
+time: 325.5
+time: 324.9
+time: 326.6
+time: 325.5
+time: 325.2
+time: 323.7
+time: 323.4
+time: 319.3

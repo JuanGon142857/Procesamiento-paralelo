@@ -1,0 +1,9 @@
+ time: 321.9
+ time: 323.0
+ time: 318.4
+ time: 324.1
+ time: 323.8
+ time: 325.5
+ time: 324.0
+ time: 323.9
+ time: 326.8
